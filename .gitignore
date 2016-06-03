@@ -1,0 +1,18 @@
+##########################
+# Unreal Generated Files #
+##########################
+/Build
+/Binaries
+/DerivedDataCache
+/Intermediate
+/Saved
+
+######################
+# VS Generated Files #
+######################
+*.VC.db
+*.suo
+*.VC.opendb
+*.sln
+*.apk
+Android_ETC2/Install_MeditationGearV2_Development-armv7-es2.bat
